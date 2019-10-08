@@ -1,0 +1,32 @@
+  body {
+    background-color: rgb(37, 37, 248);
+    color: white;
+  }
+
+  h1 {
+    font-family: Times;
+    font-weight: bold;
+    color: rgb(23, 23, 136);
+    text-align: center;
+  }
+  
+  h5 {
+    font-family: Times;
+    font-style: italic;
+    color: rgb(23, 23, 136);
+    text-align: center;
+  }
+  
+  .panel-title {
+    font-weight: bold;
+  }
+  
+  th {
+    font-weight: bold;
+    color: white;
+  }
+
+  #add-train {
+      color: blue;
+      background-color: white;
+  }
